@@ -95,8 +95,8 @@ E.g. <b>META</b> for <i>META key</i>, \n
     <string name="pref_storeSecondaryDisplayPreferencesSeparately_summary">Открыть этот экран на дисплее, который вы хотите настроить.</string>
 
     <string name="pref_adjustHeightForEK">Отрегулировать высоту отображения панели дополнительных клавиш</string>
-    <string name="pref_adjustHeightForEK_summary">Отрегулировать форму отображаемой панели дополнительных клавиш..</string>
-    <string name="pref_useTermuxEKBarBehaviour">Деактивировать специальные клавиши на дополнительной панели клавиш после каждого нажатия клавиши</string>
+    <string name="pref_adjustHeightForEK_summary">Отрегулировать форму отображаемой панели дополнительных клавиш.</string>
+    <string name="pref_useTermuxEKBarBehaviour">Деактивировать специальные клавиши на дополнительной панели после каждого нажатия</string>
     <string name="pref_useTermuxEKBarBehaviour_summary">Использовать долгое нажатие для блокировки специальных клавиш.</string>
     <string name="pref_opacityEKBar">Непрозрачность панели дополнительных клавиш, %</string>
     <string name="pref_extra_keys_config">Конфигурация дополнительных клавиш</string>
