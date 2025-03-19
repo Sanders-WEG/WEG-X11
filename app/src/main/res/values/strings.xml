@@ -9,6 +9,7 @@
     <string name="not_connected">Нет соединения</string>
     <string name="preferences_button_text">Настройка</string>
     <string name="help_button_text">Группа WEG™ в Telegram</string>
+    <string name="video_button_text">YouTube WEG™</string>
     <string name="exit_button_text">Выход</string>
     <string name="extra_keys_config_desc">Здесь вы можете установить значение переменной extra-keys, как в приложении Termux (read <a href="http://wiki.termux.com/wiki/Touch_Keyboard#Extra_Keys_Row">this</a>) и многое другое \n
 E.g. <b>META</b> for <i>META key</i>, \n
@@ -27,7 +28,7 @@ E.g. <b>META</b> for <i>META key</i>, \n
     <string name="notification_toggle_fullscreen">Переключить полноэкранный режим</string>
 
     <string name="pref_main">Настройка</string>
-    <string name="pref_output">Выход</string>
+    <string name="pref_output">Настройки экрана</string>
     <string name="pref_pointer">Указатель</string>
     <string name="pref_kbd">Клавиатура</string>
     <string name="pref_other">Другое</string>
