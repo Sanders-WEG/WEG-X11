@@ -17,7 +17,7 @@ E.g. <b>META</b> for <i>META key</i>, \n
 <b>MOUSE_HELPER</b> for <i>mouse helper toggling key</i>, \n
 <b>STYLUS_HELPER</b> for <i>stylus click override overlay toggling key</i>, \n
 <b>EXIT</b> for <i>application exit key</i>.</string>
-    <string name="notification_content_text">Потяните вниз, чтобы показать параметры/string>
+    <string name="notification_content_text">Потяните вниз, чтобы показать параметры</string>
     <string name="notification_open_preferences">Настройка</string>
     <string name="notification_exit">Выход</string>
     <string name="notification_restart_activity">Перезапуск</string>
